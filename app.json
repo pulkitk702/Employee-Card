@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "employee-card",
+    "slug": "employee-card",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "employee-card"
+}
